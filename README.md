@@ -49,12 +49,6 @@ architecture, and AI-powered applications.
 
 `Docker` `Linux` `Git`
 
-------------------------------------------------------------------------
+---
 
-```{=html}
-<p align="center">
-```
-`<sub>`{=html}Build. Break. Understand. Rebuild.`</sub>`{=html}
-```{=html}
-</p>
-```
+> Build. Break. Understand. Rebuild.
